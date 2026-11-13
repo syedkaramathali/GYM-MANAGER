@@ -1,0 +1,6 @@
+{
+  "name": "GymManager",
+  "description": "Gym owner management SaaS for member digital IDs, expiry tracking, automated WhatsApp reminders, payment receipts, and Razorpay subscriptions.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
